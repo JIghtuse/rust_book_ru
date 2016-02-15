@@ -1,4 +1,4 @@
-% Syntax Index
+# Syntax Index
 
 ## Keywords
 

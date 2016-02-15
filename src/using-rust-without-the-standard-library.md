@@ -1,4 +1,4 @@
-% Using Rust Without the Standard Library
+# Using Rust Without the Standard Library
 
 Rust’s standard library provides a lot of useful functionality, but assumes
 support for various features of its host system: threads, networking, heap

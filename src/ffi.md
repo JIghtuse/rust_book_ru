@@ -1,4 +1,4 @@
-% Интерфейс внешних функций (foreign function interface)
+# Интерфейс внешних функций (foreign function interface)
 
 # Введение
 
